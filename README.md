@@ -55,4 +55,4 @@ def LSTM_FC_prediction(X, Y, X_test=None, iters=20000, learning_rate=1e-4, dropo
     print('Done.')
     return Y_test
 ```
-For more details, please see in [tuitorials](https://github.com/rakeshr8690/Water-Table-Depth-Predictor/blob/main/LSTM-water-table-depth-prediction-master/tutorials.ipynb).
+For more details, please see in [tutorials](https://github.com/rakeshr8690/Water-Table-Depth-Predictor/blob/main/LSTM-water-table-depth-prediction-master/tutorials.ipynb).
