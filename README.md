@@ -28,7 +28,7 @@ The code was tested with Python 3.5. To use this code, please do:
     ```
 
 If installed correctly, the result should look like this:
-![results]((https://github.com/rakeshr8690/Water-Table-Depth-Predictor/blob/main/LSTM-water-table-depth-prediction-master/doc/results.png))
+![results](https://github.com/rakeshr8690/Water-Table-Depth-Predictor/blob/main/LSTM-water-table-depth-prediction-master/doc/results.png))
 
 Noted that the demo data ([demo.csv](https://github.com/rakeshr8690/Water-Table-Depth-Predictor/blob/main/LSTM-water-table-depth-prediction-master/data/demo.csv)) are processed manually,  so they are not real data, but they still can reflect the correlation between the original data.
 
